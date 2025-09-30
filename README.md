@@ -33,10 +33,10 @@
   🚀 <i>Always open to discussing impactful remote projects and collaborations.</i>
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+  <a href="https://www.linkedin.com/in/mislav-karanusic/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:mislav@mislavcodes.biz" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logoColor=white" />
   </a>
 </p>
